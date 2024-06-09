@@ -1,2 +1,1 @@
-# web_finalexam
-This is my web's finalexam
+这是我给朋友搭建的网站
